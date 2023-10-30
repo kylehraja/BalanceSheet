@@ -9,3 +9,10 @@ How the sheet is structured:
 
 Hover feature:
 ![image](https://github.com/kylehraja/BalanceSheet/assets/140476247/07fbf61c-47d9-4056-8d40-755e1fa94c84)
+
+Set up to run web page:
+
+1) Download and unzip the BalanceSheet.zip file.
+2) Open in vscode.
+3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
